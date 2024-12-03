@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/jordantalahua123" target="_blank">
 Jordan...!</a></h1>
 <h3 align="center">I am a FullStack Web | Mobil </h3>
-
-
-
-
-	
-## <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">About Me👨</h2></summary>
+  </ul>
+</div>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <br><br>
-
 - :school: I am a `Junior` at [Software Engineer](https://www.espe.edu.ec/ingenieria-software/) at [University of the Armed Forces "ESPE"](https://espe-el.espe.edu.ec/).
 - :trophy: 3rd `IEEEXtrem` 3rd place in Ecuador.
 - :technologist: I love using Software as a solution for every `Problem`.
