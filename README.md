@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/jordantalahua123" target="_blank">
 Jordan...!</a></h1>
-<h3 align="center">I am a FullStack Web | Mobil &#127470;&#127475</h3>
+<h3 align="center">I am a FullStack Web | Mobil </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -29,24 +29,24 @@ Jordan...!</a></h1>
 </h3>
 <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/jordan-talahua-ba2b28208/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/jordan-talahua-ba2b28208/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://www.facebook.com/jordan.talahua.1" target="blank"><img align="center"
+      <a href="https://www.facebook.com/jordan.talahua.1" target="_blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="jordantalahua@gmail.com" target="blank"><img align="center"
+      <a href="jordantalahua@gmail.com" target="_blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://www.instagram.com/talahua.jordan/" target="blank"><img align="center"
+      <a href="https://www.instagram.com/talahua.jordan/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+593969183227" target="blank"><img align="center"
+      <a href="https://wa.me/+593969183227" target="_blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://x.com/JordanTalahua" target="blank"><img align="center"
+      <a href="https://x.com/JordanTalahua" target="_blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
@@ -61,7 +61,7 @@ Jordan...!</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,postgres,vue,express,figma,firebase,github,html,java,js,linux,md,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes,unity,wordpress,xd,angular,flutter,cs,dart,dotnet,eclipse,hibernate,idea,ai,laravel,&perline=10" target="blank"/>
+	  <img align="center" src="https://skillicons.dev/icons?i=git,github,java,cs,py,nodejs,express,php,laravel,hibernate,dotnet,mongodb,mysql,postgres,html,css,js,ts,vue,react,angular,flutter,bootstrap,tailwind,vscode,eclipse,idea,pycharm,postman,figma,xd,docker,jenkins,firebase,linux,wordpress,discord,notion,npm,md&perline=10" target="_blank"/>
   </a>
 </p>
 
