@@ -145,6 +145,7 @@ Jordan...! </a>a FullStack Web | Mobil</h1>
       <img width="50px" src="https://skillicons.dev/icons?i=notion" alt="notion" title="Notion"/>
       <img width="50px" src="https://skillicons.dev/icons?i=npm" alt="npm" title="npm"/>
       <img width="50px" src="https://skillicons.dev/icons?i=md" alt="md" title="Markdown"/>
+      <img width="50px" src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity"/>
     </kbd>
   </p>
 </div>
