@@ -9,6 +9,7 @@ Jordan...! </a>a FullStack Web | Mobil</h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <br><br>
+
 - :school: I am a `Junior` at [Software Engineer](https://www.espe.edu.ec/ingenieria-software/) at [University of the Armed Forces "ESPE"](https://espe-el.espe.edu.ec/).
 - :trophy: 3rd `IEEEXtrem` 3rd place in Ecuador.
 - :technologist: I love using Software as a solution for every `Problem`.
