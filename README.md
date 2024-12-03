@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/jordantalahua123" target="_blank">
-Jordan...!</a></h1>
-<h3 align="center">I am a FullStack Web | Mobil </h3>
+Jordan...! </a>a FullStack Web | Mobil</h1>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">About Me👨</h2></summary>
@@ -24,6 +23,7 @@ Jordan...!</a></h1>
 <h3 align="center" > 
 	<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 
 </h3>
+
 <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/jordan-talahua-ba2b28208/" target="_blank"><img align="center"
