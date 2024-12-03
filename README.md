@@ -59,9 +59,83 @@ Jordan...!</a></h1>
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-	  <img align="center" src="https://skillicons.dev/icons?i=git,github,java,cs,py,nodejs,express,php,laravel,hibernate,dotnet,mongodb,mysql,postgres,html,css,js,ts,vue,react,angular,flutter,bootstrap,tailwind,vscode,eclipse,idea,pycharm,postman,figma,xd,docker,jenkins,firebase,linux,wordpress,discord,notion,npm,md&perline=10" target="_blank"/>
-  </a>
-</p>
-
+<div>
+  <p style="display: inline-block;" align="center">
+    <kbd>
+      <kbd>Control de Versiones</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://skillicons.dev/icons?i=git" alt="git" title="Git"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=github" alt="github" title="GitHub"/>
+    </kbd>
+    <kbd>
+      <kbd>Lenguajes de Programación</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://skillicons.dev/icons?i=java" alt="java" title="Java"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=cs" alt="cs" title="C#"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=py" alt="py" title="Python"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=js" alt="js" title="JavaScript"/>
+    </kbd>
+    <kbd>
+      <kbd>Backend</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="Node.js"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=express" alt="express" title="Express"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=php" alt="php" title="PHP"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=laravel" alt="laravel" title="Laravel"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=postgres" alt="postgres" title="PostgreSQL"/>
+    </kbd>
+    <kbd>
+      <kbd>Frontend</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://skillicons.dev/icons?i=html" alt="html" title="HTML"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=css" alt="css" title="CSS"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=js" alt="js" title="JavaScript"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=ts" alt="ts" title="TypeScript"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=vue" alt="vue" title="Vue"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=react" alt="react" title="React"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=angular" alt="angular" title="Angular"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=flutter" alt="flutter" title="Flutter"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" title="Bootstrap"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" title="Tailwind"/>
+    </kbd>
+    <br>
+    <br>
+    <kbd>
+      <kbd>Herramientas de Desarrollo</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://skillicons.dev/icons?i=vscode" alt="vscode" title="VS Code"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=eclipse" alt="eclipse" title="Eclipse"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=idea" alt="idea" title="IntelliJ IDEA"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" title="PyCharm"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=postman" alt="postman" title="Postman"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=xd" alt="xd" title="Adobe XD"/>
+    </kbd>
+    <kbd>
+      <kbd>Infraestructura y Despliegue</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" title="Jenkins"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=firebase" alt="firebase" title="Firebase"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=linux" alt="linux" title="Linux"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" title="WordPress"/>
+    </kbd>
+    <kbd>
+      <kbd>Otras Herramientas</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://skillicons.dev/icons?i=discord" alt="discord" title="Discord"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=notion" alt="notion" title="Notion"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=npm" alt="npm" title="npm"/>
+      <img width="30px" src="https://skillicons.dev/icons?i=md" alt="md" title="Markdown"/>
+    </kbd>
+  </p>
+</div>
