@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/jordantalahua123" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/jordantalahua123" target="_blank">
 Jordan...!</a></h1>
 <h3 align="center">I am a FullStack Web | Mobil &#127470;&#127475</h3>
 
