@@ -79,6 +79,7 @@ Jordan...! </a>a FullStack Web | Mobil</h1>
       <kbd>Backend</kbd>
       <br>
       <br>
+      <img width="50px" src="https://skillicons.dev/icons?i=spring" alt="spring" title="Spring Boot"/>
       <img width="50px" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="Node.js"/>
       <img width="50px" src="https://skillicons.dev/icons?i=express" alt="express" title="Express"/>
       <img width="50px" src="https://skillicons.dev/icons?i=php" alt="php" title="PHP"/>
